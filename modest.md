@@ -47,7 +47,7 @@ Redfin, Seattle, WA, June 2013 - April 2014
 - Built a referral project to track our referrals across all marketing channels and into the data warehouse
 
 **Process Engineer, Product Development**    
-UPM-Raflatac, Mills River, NC, January 2011  
+UPM-Raflatac, Mills River, NC, January 2011 - August 2012  
 - After assessing initial plan processes, I removed valuable time from machine startup costs by building a tool that provided initial settings to operators based on product type
 - Built product development team's data warehouse, initially used for tracking client claims
 - Built UI for data entry into data warehouse
