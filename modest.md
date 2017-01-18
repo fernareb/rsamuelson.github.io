@@ -84,15 +84,6 @@ Ninjathat, Philadelphia, PA, January 2012 - May 2013
 - Closed deals with Hyundai and EA Sports, as well as various smaller companies
 - Built automated tools to grow lead funnel amongst the university student population in various cities across the country
 
-### Projects
-**Seattle Sports Bot**  
-I wrote a Slack bot using Python and Heroku that would alert campus employees whenever a Seattle team had a home game. The purpose of the bot was to alert employees when it would be a heavy traffic day.   
-[Link](https://github.com/rsamuelson/seattle-sports-bot)g
-
-**Larkspur Commons Website**  
-Built a website for Larkspur Commons, a new apartment complex in Bozeman, Montana.  
-[Link](http://www.larkspurcommons.com)
-
 ### Education
 **Bachelor of Science, Materials Science and Engineering**  
 Virginia Tech, Blacksburg, VA - 2013
