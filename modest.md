@@ -39,20 +39,12 @@ Redfin, Seattle, WA, April 2014 - May 2015
 - Responsible for bringing the Redfin brand voice alive across our social networking channels, specifically responsible for execution strategy, paid advertising, advertisement optimization, community management, and analytics surrounding growth, engagement, and traffic
 - Increased traffic from social media, particularly Facebook, by 55% YoY
 
-**Senior Digital Marketing Specialist**  
-Redfin, Seattle, WA, April 2014 - May 2015  
-- Owned all analytics for the PR Team, representing the PR Team in product planning meetings and measuring the impact of team performance
-- Built a metric for the PR Team to measure the success of their campaigns
-- Responsible for bringing the Redfin brand voice alive across our social networking channels, specifically responsible for execution strategy, paid advertising, advertisement optimization, community management, and analytics surrounding growth, engagement, and traffic
-- Increased traffic from social media, particularly Facebook, by 55% YoY
-
 **Data Analyst**  
 Redfin, Seattle, WA, June 2013 - April 2014  
 - Owned analyses regarding repeat and referral business, as well as the active sales pipeline and customer segmentation
 - Supported our email marketing team, including designing experiments, tracking campaigns, and process improvement
 - Worked on a customer segmentation project that led to changes in our customer funnel and increased close rate
 - Built a referral project to track our referrals across all marketing channels and into the data warehouse
-
 
 **Process Engineer, Product Development**    
 UPM-Raflatac, Mills River, NC, January 2011  
