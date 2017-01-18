@@ -89,9 +89,6 @@ Ninjathat, Philadelphia, PA, January 2012 - May 2013
 I wrote a Slack bot using Python and Heroku that would alert campus employees whenever a Seattle team had a home game. The purpose of the bot was to alert employees when it would be a heavy traffic day.   
 [Link](https://github.com/rsamuelson/seattle-sports-bot)
 
-**Galvanize Foundation Website**  
-Built the Galvanize Foundation website using Bootstrap.
-
 **Larkspur Commons Website**  
 Built a website for Larkspur Commons, a new apartment complex in Bozeman, Montana.  
 [Link](http://www.larkspurcommons.com)
