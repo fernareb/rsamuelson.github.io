@@ -1,7 +1,7 @@
 # Rebecca Samuelson  
 
 <center><i class="fa fa-globe"></i> Seattle, WA <i class="fa fa-envelope"></i> [beccasamuelson@gmail.com](mailto:beccasamuelson@gmail.com)  
-<i class="fa fa-phone"></i> <a href="imessage://beccasamuelson@gmail.com">(704) 654-7371</a> <i class="fa fa-linkedin"></i> [linkedin.com/in/rsamuelson](https://www.linkedin.com/in/rsamuelson)  
+<i class="fa fa-phone"></i> <a href="imessage://beccasamuelson@gmail.com">(206) 225-6919</a> <i class="fa fa-linkedin"></i> [linkedin.com/in/rsamuelson](https://www.linkedin.com/in/rsamuelson)  
 <i class="fa fa-github"></i> [github.com/rsamuelson](https://github.com/rsamuelson)</center>
 
 ### Summary  
