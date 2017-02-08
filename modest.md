@@ -1,8 +1,8 @@
 # Rebecca Samuelson  
 
-<center><i class="fa fa-globe"></i> Seattle, WA <i class="fa fa-envelope"></i> [beccasamuelson@gmail.com](mailto:beccasamuelson@gmail.com)  
-<i class="fa fa-phone"></i> <a href="imessage://beccasamuelson@gmail.com">(206) 225-6919</a> <i class="fa fa-linkedin"></i> [linkedin.com/in/rsamuelson](https://www.linkedin.com/in/rsamuelson)  
-<i class="fa fa-github"></i> [github.com/rsamuelson](https://github.com/rsamuelson)</center>
+<center><i class="fa fa-globe"></i> Seattle, WA <i class="fa fa-envelope"></i> beccasamuelson@gmail.com <br>
+<i class="fa fa-phone"></i> (206) 225-6919 <i class="fa fa-linkedin"></i> linkedin.com/in/rsamuelson  <br>
+<i class="fa fa-github"></i> github.com/rsamuelson</center>
 
 ### Summary  
 Analytics director with an undergraduate engineering degree and 6 years of experience working at the intersection of product, marketing, and analytics to improve operations, customer experience, and company growth.
